@@ -9,3 +9,6 @@ Test module for git, build, ci/cd
 ## Installation
 
 ## Examples
+
+[github-actions-badge]: https://github.com/markkerry/PSTestModule/workflows/CI/badge.svg
+[github-actions-build]: https://github.com/markkerry/PSTestModule/actions
